@@ -1,0 +1,49 @@
+⚠️Coloque 1 de cada vez no termux, sempre que aparece [y/n] sempre digita y e da enter⚠️
+===========================================
+
+🇸 🇦 🇳 🇩 🇷 🇴 - 🇲 🇩 
+
+-obrigado pelos 161 subs❤️
+
+Se você gostou do bot e quiser ajuda com um pix tmj ❤️
+
+chave 🔑 cll: +5531998630187
+chave aleatória: 2d616b1e-f9bf-4831-8420-c0633e3310ac
+email: kiritomoderxxx@gmail.com
+
+
+//////////////////////////////////////////////
+//🍙 COMANDOS DE INSTALAÇÃO 🍙
+[1].  termux-setup-storage
+
+[2].  cd /sdcard/sandro-md 
+
+ou   cd /sdcard/Download/sandro-md 
+
+[3].  sh install.sh
+
+[4].  sh start.sh
+
+e isso 👀
+//////////////////////////////////////////////
+
+@Sandro👑
+
+[apk Termux se precisar.]
+
+https://apkcombo.com/pt/termux/com.termux/
+
+[site para criptografar seu bot de kibadores]
+
+https://obfuscator.io/
+
+
+//RELATÓRIO DA ATUALIZAÇÃO//
+
+Bugs no console resolvido
+comandos de adms adicionados
+facilidade de instalação do bot
+Algumas apis foram atualizadas
+
+
+SANDRO BOT DOMINA🥶👻
